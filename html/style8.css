@@ -1,0 +1,24 @@
+form{
+    margin: auto;
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+}
+    h3{
+        text-align: left ;
+        margin-left: 10px;
+    }
+    .zipcode{
+        width: 51px;
+    }
+
+    .row{
+        display: flex;
+        margin-left: 106px;
+    
+    }
+    .cols{
+text-align: left;
+margin-left: 10px;
+    }
+
