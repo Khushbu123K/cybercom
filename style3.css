@@ -1,0 +1,9 @@
+.text {
+    text-align: center;
+}
+.tabl,td,table{
+    border: 1px solid black;
+}
+.tabl{
+    border-collapse: collapse;
+}
